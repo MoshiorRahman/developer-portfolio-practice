@@ -2,10 +2,11 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
+
 .span-color{
     color: #FF7F50;
 }
